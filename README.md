@@ -7,7 +7,7 @@ Actualmente el repositorio solo implementa la operación de **suma**, que sirve 
 
 ---
 
-## 📌 Descripción del proyecto
+## 📌 Descripción del proyecto. (cambio)
 
 Este repositorio contiene la estructura inicial de una calculadora escrita en TypeScript.  
 La única operación implementada por ahora es:
